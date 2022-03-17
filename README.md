@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LasnamiWalid16 
+- 👋 Hi, I’m LasnamiWalid16 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning tensorflow
+- 🌱 I’m currently learning DeepLearning (tensorflow)
 - 💞️ I’m looking to collaborate on real world project 
 - 📫 How to reach me ...
 
