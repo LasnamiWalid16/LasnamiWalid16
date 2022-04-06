@@ -1,4 +1,4 @@
-- 👋 Hi, I’m LasnamiWalid16 
+- 👋 Hi, I’m Lasnami Abdelkarim 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DeepLearning (tensorflow)
 - 💞️ I’m looking to collaborate on real world project 
